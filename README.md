@@ -4,4 +4,6 @@
 
 演示地址：https://dao1023.github.io/zhihu-emoji/
 
+本仓库一直活到微软倒闭，可以直接复制链接作为图床使用
+
 ![](demo.png)
